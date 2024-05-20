@@ -1,0 +1,7 @@
+C:\Users\Tecnico\Documents\Projeto.Calc\AtvArray\AtvArray\bin\Debug\AtvArray.exe.config
+C:\Users\Tecnico\Documents\Projeto.Calc\AtvArray\AtvArray\bin\Debug\AtvArray.exe
+C:\Users\Tecnico\Documents\Projeto.Calc\AtvArray\AtvArray\bin\Debug\AtvArray.pdb
+C:\Users\Tecnico\Documents\Projeto.Calc\AtvArray\AtvArray\obj\Debug\AtvArray.csproj.AssemblyReference.cache
+C:\Users\Tecnico\Documents\Projeto.Calc\AtvArray\AtvArray\obj\Debug\AtvArray.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Documents\Projeto.Calc\AtvArray\AtvArray\obj\Debug\AtvArray.exe
+C:\Users\Tecnico\Documents\Projeto.Calc\AtvArray\AtvArray\obj\Debug\AtvArray.pdb
